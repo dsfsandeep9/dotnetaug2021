@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'dsfwebapptest'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_80b1e8eb4a5e42338adc1acca4f8f01d }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_dd7557e4150a4056968e7333e958f022 }}
         package: .
