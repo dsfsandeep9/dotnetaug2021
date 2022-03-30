@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'czar'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_330DB7E6B7894170A3BAFE619BB184AC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5E34CF4534B4416A7575152718761E9 }}
           package: .
